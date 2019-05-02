@@ -1,11 +1,5 @@
 package com.ndexondeck.soapbuilder;
 
-//import com.google.common.collect.ImmutableSet;
-//import ng.upperlink.constant.ExceptionKeyConstant;
-//import ng.upperlink.interfaces.ISoapPayload;
-//import ng.upperlink.util.CaseConverter;
-//import ng.upperlink.util.CollectionUtils;
-
 import com.ndexondeck.soapbuilder.exceptions.SoapBuilderException;
 import com.ndexondeck.soapbuilder.interfaces.ISoapPayload;
 import com.ndexondeck.soapbuilder.utils.CaseConverter;
